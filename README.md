@@ -2,7 +2,7 @@
 
 This sample demonstrates how to customize the UI appearance of the Syncfusion SfAccordion control in a .NET MAUI app using Visual State Manager (VSM). It shows how to define visual states such as "Expanded" and "Collapsed" for `AccordionItem` and apply property setters (for example header background and icon color) that update automatically when the state changes.
 
-For a full getting-started guide to the SfAccordion control, see the Syncfusion user guide: [Getting Started with Xamarin Accordion (SfAccordion)](https://help.syncfusion.com/xamarin/accordion/getting-started)
+For a full getting-started guide to the SfAccordion control, see the Syncfusion user guide: [Getting Started with MAUI Accordion](https://help.syncfusion.com/maui/accordion/getting-started)
 
 ## Overview
 
@@ -50,8 +50,8 @@ This style ensures every `AccordionItem` in the page inherits the Visual State d
 ##### Conclusion
 I hope you enjoyed learning about how to customize the appearance of .NET MAUI SfAccordion using “Expanded” and “Collapsed” visual states.
 
-You can refer to our  [Xamarin.Forms Accordion feature tour](https://www.syncfusion.com/xamarin-ui-controls/xamarin-accordion) page to know about its other groundbreaking feature representations and [documentation](https://help.syncfusion.com/xamarin/accordion/getting-started), and how to quickly get started for configuration specifications. You can also explore our [Xamarin.Forms Accordion example](https://www.syncfusion.com/demos/xamarin) to understand how to create and manipulate data.
+You can refer to our [.NET MAUI Accordion](https://www.syncfusion.com/maui-controls/maui-accordion) feature tour page to know about its other groundbreaking feature representations. You can also explore our [.NET MAUI Accordion documentation](https://help.syncfusion.com/maui/accordion/getting-started) to understand how to present and manipulate data.
 
-For current customers, you can check out our Document Processing Libraries from the [License and Downloads](https://www.syncfusion.com/account/login) page. If you are new to Syncfusion, you can try our 30-day [free trial](https://www.syncfusion.com/downloads) to check out our controls.
+For current customers, you can check out our components from the [License and Downloads](https://www.syncfusion.com/account/login) page. If you are new to Syncfusion, you can try our 30-day [free trial](https://www.syncfusion.com/downloads/maui) to check out our other controls.
 
-If you have any queries or require clarifications, please let us know in the comments section below. You can also contact us through our [support forums](https://www.syncfusion.com/forums) or [Direct-trac](https://support.syncfusion.com/create). We are always happy to assist you!
+If you have any queries or require clarifications, please let us know in the comments section below. You can also contact us through our [support forums](https://www.syncfusion.com/forums/), [Direct-Trac](https://support.syncfusion.com/create), or [feedback portal](https://www.syncfusion.com/feedback/maui?control=sflistview). We are always happy to assist you!
